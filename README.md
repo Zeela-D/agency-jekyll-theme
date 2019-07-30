@@ -21,6 +21,7 @@ Team members and info are in '_config.yml'
 
 Images are in '/img/team/'
 
+derpderpderp
 
 # Demo
 
